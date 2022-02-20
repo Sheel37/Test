@@ -1,0 +1,3 @@
+spintly1/develop
+spintly2/develop
+spintly3/develop
